@@ -2,7 +2,7 @@ FloatingSatellites
 ==================
 
 Processing Code for Floating Satellites Installation
-Documentation bout the installation here: 
+Documentation bout the installation <a href="http://visiophone-lab.com/wp/?portfolio=floating-satellites">here</a>. 
 
 
 Made with <a href="https://processing.org/">Processing</a>. Touch Interface with <a href="http://hexler.net/software/touchosc" target="_blank">TouchOSC</a>. Sound in Ableton Live, controlled in real time from Processing via MIDI messages
